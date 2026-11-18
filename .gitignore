@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temporary and lock files
+*.pbix.bak
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal Power BI theme and logo files
+PowerBI Theme/
+Company Logo/
